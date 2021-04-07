@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemantsharmaj
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Neural Networkd
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on More Machine Learning Projects
 - 📫 How to reach me linkedin.com/in/hemant-sharma1
 
