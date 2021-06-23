@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemantsharmaj
+- 👋 Hi, I’m @TheHemantSharma
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on More Machine Learning Projects
